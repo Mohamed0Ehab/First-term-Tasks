@@ -4,10 +4,12 @@
 The **DICOM Viewer** is a graphical user interface (GUI) tool designed to load and view medical imaging data from DICOM series or NIfTI files. It provides multi-planar reconstruction (axial, coronal, sagittal) and features for adjusting brightness, contrast, and more.
 
 ---
+![main](Main_window.png)
 
 ## ✨ Features
 - **Multi-Planar Reconstruction (MPR):**
   - Axial, Coronal, and Sagittal views with real-time updates.
+    ![Multi-Planar](DICOM-Viewer.png)
 - **Adjustable Parameters:**
   - Brightness and contrast sliders for each view.
 - **Interactive Controls:**
