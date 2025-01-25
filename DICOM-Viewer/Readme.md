@@ -1,4 +1,4 @@
-# DICOM Folder Viewer 📁🩺
+# DICOM Viewer 📁🩺
 
 ## 🖥️ Overview
 The **DICOM Folder Viewer** is a PyQt5-based application for loading, exploring, and managing DICOM medical imaging data. It provides advanced functionalities like image visualization, metadata exploration, multi-frame DICOM handling, and anonymization of sensitive patient information.
