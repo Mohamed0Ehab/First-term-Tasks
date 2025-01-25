@@ -15,7 +15,7 @@ The **DICOM Folder Viewer** is a PyQt5-based application for loading, exploring,
   - Multi-frame DICOM support with cine mode (auto-play).
 - **Tile View**:
   - Display thumbnails of all images in a folder for quick navigation.
-   ![Tiles](Tiles.png)
+   ![Tiles](Tiles_View.png)
 - **Metadata Search**:
   - Search for specific DICOM tags in the metadata.
   ![Search](Search.png)
