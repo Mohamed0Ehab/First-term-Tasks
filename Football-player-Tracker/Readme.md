@@ -8,8 +8,9 @@ The **Football Player Tracker** is an advanced tool designed to track football p
 ## ✨ Features
 - **Real-Time Player Tracking**:
   - Detects and tracks players in a video using bounding boxes.
+  ![Real-Time Player Tracking](Football_Player_Tracker.png)
 - **Player Movement Heatmap**:
-  ![Heat map](Player 3 Movement Heatmap.png)
+  
   - Generate heatmaps to visualize individual player movement on the field.
 - **Interactive GUI**:
   - Load videos, select players, and control tracking with ease.
