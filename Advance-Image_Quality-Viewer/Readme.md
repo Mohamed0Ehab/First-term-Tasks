@@ -17,6 +17,29 @@ The **Advanced Image Quality Viewer** is a PyQt5-based desktop application for v
 11. **Saving Images**: Save processed images in various formats.
 
 ## Installation
+# Advanced Image Quality Viewer
+
+The **Advanced Image Quality Viewer** is a PyQt5-based desktop application for visualizing and enhancing image quality. It offers a variety of tools, including zooming, contrast adjustment, noise addition/removal, and SNR/CNR measurement, along with support for cropping and saving images.
+
+![Main Window](assets/screenshots/main_window.png)
+
+## Features
+
+1. **Image Display**: Load and display grayscale or color images in three views: Input, Output 1, and Output 2.
+
+   ![Zoom Feature](assets/screenshots/zoom_feature.png)
+
+2. **Zoom and Pan**: Use Ctrl + Mouse Wheel for zooming; drag to pan.
+
+   ![ROI Selection](assets/screenshots/roi_selection.png)
+
+3. **Brightness and Contrast Adjustment**: Fine-tune image brightness and contrast with sliders.
+
+4. **Histogram Visualization**: View grayscale and RGB histograms for loaded images.
+
+   ![Histogram View](assets/screenshots/histogram_view.png)
+
+## Installation
 
 ### Requirements
 
