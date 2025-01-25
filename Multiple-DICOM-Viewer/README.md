@@ -9,7 +9,7 @@ The **DICOM Viewer** is a graphical user interface (GUI) tool designed to load a
 ## ✨ Features
 - **Multi-Planar Reconstruction (MPR):**
   - Axial, Coronal, and Sagittal views with real-time updates.
-    ![Multi-Planar](DICOM-Viewer.png)
+    ![Multi-Planar](DICOM-viewer.png)
 - **Adjustable Parameters:**
   - Brightness and contrast sliders for each view.
 - **Interactive Controls:**
