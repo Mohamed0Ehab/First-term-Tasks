@@ -37,4 +37,7 @@ Set up the environment:
   Contributing
   We welcome contributions to improve the game's mechanics, design, or educational content. Please fork the repository and submit a pull request.
 
+## ScreenShots
+### Screen1
+![Scree1](ScreenShots/Screen1.png)
 
